@@ -1,8 +1,18 @@
-# Welcome to my github profile!
-Cyber security specialist with 4 years of experience in cyber security consulting, including 2 years dedicated to offensive security and penetration testing.
+## Welcome 👋
 
-My background combines an attacker's mindset with a practical understanding of IT operations, helping organizations identify risks and implement effective security improvements. My focus is on integrating cyber security into daily operations, improving security maturity, and helping clients build resilient and secure environments.
+Cybersecurity specialist with 4 years of experience in security consulting, including 2 years focused on offensive security and penetration testing.
 
-Passionate about offensive security, vulnerability management, Microsoft security technologies, cloud security, and continuous learning.
+I help organizations identify real-world risks, strengthen their security posture, and integrate security into day-to-day operations.
 
-Website: https://kdvsecurity.be/
+My background blends an attacker mindset with hands-on IT operations experience, allowing me to bridge the gap between security theory and practical implementation.
+
+### Focus areas
+- Offensive security & penetration testing  
+- Vulnerability management  
+- Microsoft security ecosystem  
+- Cloud security  
+- Security maturity improvement  
+
+Always learning, always breaking things (ethically).
+
+🌐 https://kdvsecurity.be/
